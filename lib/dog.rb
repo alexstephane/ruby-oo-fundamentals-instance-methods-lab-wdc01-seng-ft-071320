@@ -1,6 +1,6 @@
 class Dog
   
   def bark
-    woof!
+   "Woof!" 
   end
 end
